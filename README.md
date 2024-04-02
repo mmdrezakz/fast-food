@@ -1,5 +1,5 @@
 # Fast Food Template with Html + Tailwind + Js  
 
-You Can See This Project Online [link text itself].
-[link text itself]: http://www.reddit.com
+##You Can See This Project Online [Click here](https://mmdrezakz.github.io/fast-food/).
+
 
